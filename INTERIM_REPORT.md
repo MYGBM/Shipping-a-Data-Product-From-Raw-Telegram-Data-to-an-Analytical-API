@@ -195,7 +195,8 @@ CREATE TABLE raw.telegram_messages (
 
 **Screenshot: Raw Data in PostgreSQL**
 
-[PLACEHOLDER: Insert screenshot of `\d+ raw.telegram_messages` showing table structure]
+<img width="1513" height="303" alt="image" src="https://github.com/user-attachments/assets/91167c63-763e-4206-8032-799b4a749091" />
+
 
 ---
 
@@ -560,7 +561,8 @@ dbt test
 
 **Output:**
 
-[PLACEHOLDER: Insert screenshot of `dbt test` showing all tests passing]
+<img width="1344" height="1186" alt="Screenshot 2026-01-18 232117" src="https://github.com/user-attachments/assets/97694478-d8cb-46cb-ae03-cf2f4e25191c" />
+
 
 **Expected Result:**
 ```
@@ -836,7 +838,8 @@ jobs:
    - Query patterns and best practices
    - Troubleshooting guide
 
-[PLACEHOLDER: Insert screenshot of dbt docs showing DAG lineage]
+<img width="2559" height="1497" alt="image" src="https://github.com/user-attachments/assets/0ebfcfd1-0c28-410b-876d-b070836af083" />
+
 
 ---
 
@@ -1028,5 +1031,5 @@ This project successfully implemented a production-grade data pipeline for Ethio
 ---
 
 *Report generated: January 18, 2026*  
-*Author: [Your Name]*  
-*Contact: [your.email@example.com]*
+*Author: Mariam Gustavo*  
+*Contact: yegetamariam@gmail.com*
