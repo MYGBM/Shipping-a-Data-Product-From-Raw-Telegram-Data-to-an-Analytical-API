@@ -2,7 +2,7 @@
 ## Interim Report
 
 **Project:** Ethiopian Medical Business Intelligence Platform  
-**Author:** [Your Name]  
+**Author:** Mariam Gustavo
 **Date:** January 18, 2026  
 **Repository:** [MYGBM/Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API](https://github.com/MYGBM/Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API)
 
