@@ -1,0 +1,31 @@
+version: 2
+
+sources:
+  - name: raw
+    description: Raw data loaded from Telegram scraper
+    database: medical_warehouse
+    schema: raw
+    tables:
+      - name: telegram_messages
+        description: Raw Telegram messages with all scraped fields
+        columns:
+          - name: message_id
+            description: Unique message identifier from Telegram
+          - name: channel_name
+            description: Channel username/handle
+          - name: channel_title
+            description: Display name of the channel
+          - name: message_date
+            description: Timestamp when message was posted
+          - name: message_text
+            description: Text content of the message
+          - name: has_media
+            description: Boolean flag indicating if message contains media
+          - name: image_path
+            description: Path to downloaded image file (if present)
+          - name: views
+            description: Number of views on the message
+          - name: forwards
+            description: Number of times message was forwarded
+          - name: loaded_at
+            description: Timestamp when data was loaded into database
